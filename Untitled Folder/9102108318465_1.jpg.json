@@ -1,0 +1,150 @@
+{
+      "language": "en",
+      "textAngle": 0.0,
+      "orientation": "Up",
+      "regions": [
+            {
+                  "boundingBox": "63,26,2524,2234",
+                  "lines": [
+                        {
+                              "boundingBox": "63,26,397,37",
+                              "words": [
+                                    {
+                                          "boundingBox": "63,27,116,36",
+                                          "text": "(Page"
+                                    },
+                                    {
+                                          "boundingBox": "212,26,18,28",
+                                          "text": "2"
+                                    },
+                                    {
+                                          "boundingBox": "290,27,48,28",
+                                          "text": "of"
+                                    },
+                                    {
+                                          "boundingBox": "398,26,62,34",
+                                          "text": "13)"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "957,280,1470,171",
+                              "words": [
+                                    {
+                                          "boundingBox": "957,280,1470,171",
+                                          "text": "UnitedHealthcare"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "714,520,926,81",
+                              "words": [
+                                    {
+                                          "boundingBox": "714,522,45,63",
+                                          "text": "A"
+                                    },
+                                    {
+                                          "boundingBox": "779,520,378,65",
+                                          "text": "UnitedHealth"
+                                    },
+                                    {
+                                          "boundingBox": "1181,520,169,81",
+                                          "text": "Group"
+                                    },
+                                    {
+                                          "boundingBox": "1373,520,267,81",
+                                          "text": "Company"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "998,833,1051,141",
+                              "words": [
+                                    {
+                                          "boundingBox": "998,833,1051,141",
+                                          "text": "RECEIVED"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "1177,1064,367,141",
+                              "words": [
+                                    {
+                                          "boundingBox": "1177,1064,367,141",
+                                          "text": "VIA"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "998,1296,841,140",
+                              "words": [
+                                    {
+                                          "boundingBox": "998,1296,841,140",
+                                          "text": "FAX/FTP"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "455,1753,2132,127",
+                              "words": [
+                                    {
+                                          "boundingBox": "455,1753,456,127",
+                                          "text": "BEST"
+                                    },
+                                    {
+                                          "boundingBox": "966,1753,506,127",
+                                          "text": "COPY"
+                                    },
+                                    {
+                                          "boundingBox": "1519,1753,1068,125",
+                                          "text": "AVAILABLE"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "637,2011,1902,99",
+                              "words": [
+                                    {
+                                          "boundingBox": "637,2011,182,99",
+                                          "text": "DO"
+                                    },
+                                    {
+                                          "boundingBox": "870,2011,266,99",
+                                          "text": "NOT"
+                                    },
+                                    {
+                                          "boundingBox": "1181,2013,406,97",
+                                          "text": "Return"
+                                    },
+                                    {
+                                          "boundingBox": "1632,2015,118,95",
+                                          "text": "to"
+                                    },
+                                    {
+                                          "boundingBox": "1791,2013,191,97",
+                                          "text": "the"
+                                    },
+                                    {
+                                          "boundingBox": "2032,2011,292,99",
+                                          "text": "RMO"
+                                    },
+                                    {
+                                          "boundingBox": "2365,2011,174,99",
+                                          "text": "for"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "1359,2163,449,97",
+                              "words": [
+                                    {
+                                          "boundingBox": "1359,2163,449,97",
+                                          "text": "Rescan"
+                                    }
+                              ]
+                        }
+                  ]
+            }
+      ],
+      "modelVersion": "2021-04-01"
+}

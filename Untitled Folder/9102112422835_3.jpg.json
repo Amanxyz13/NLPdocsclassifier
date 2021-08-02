@@ -1,0 +1,861 @@
+{
+      "language": "en",
+      "textAngle": 0.0,
+      "orientation": "Up",
+      "regions": [
+            {
+                  "boundingBox": "63,27,167,36",
+                  "lines": [
+                        {
+                              "boundingBox": "63,27,167,36",
+                              "words": [
+                                    {
+                                          "boundingBox": "63,27,116,36",
+                                          "text": "(Page"
+                                    },
+                                    {
+                                          "boundingBox": "213,27,17,27",
+                                          "text": "4"
+                                    }
+                              ]
+                        }
+                  ]
+            },
+            {
+                  "boundingBox": "290,27,708,64",
+                  "lines": [
+                        {
+                              "boundingBox": "290,27,143,33",
+                              "words": [
+                                    {
+                                          "boundingBox": "290,27,48,28",
+                                          "text": "of"
+                                    },
+                                    {
+                                          "boundingBox": "397,27,36,33",
+                                          "text": "4)"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "516,62,482,29",
+                              "words": [
+                                    {
+                                          "boundingBox": "516,62,165,29",
+                                          "text": "5/4/2021"
+                                    },
+                                    {
+                                          "boundingBox": "708,62,81,25",
+                                          "text": "1:25"
+                                    },
+                                    {
+                                          "boundingBox": "813,64,41,23",
+                                          "text": "PM"
+                                    },
+                                    {
+                                          "boundingBox": "900,62,98,25",
+                                          "text": "FROM:"
+                                    }
+                              ]
+                        }
+                  ]
+            },
+            {
+                  "boundingBox": "1007,6,1556,450",
+                  "lines": [
+                        {
+                              "boundingBox": "1007,6,246,36",
+                              "words": [
+                                    {
+                                          "boundingBox": "1007,6,246,36",
+                                          "text": "6147640177"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "1358,6,188,45",
+                              "words": [
+                                    {
+                                          "boundingBox": "1358,6,110,45",
+                                          "text": "Page:"
+                                    },
+                                    {
+                                          "boundingBox": "1487,6,59,36",
+                                          "text": "2/2"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "1650,6,551,36",
+                              "words": [
+                                    {
+                                          "boundingBox": "1650,6,99,36",
+                                          "text": "Date:"
+                                    },
+                                    {
+                                          "boundingBox": "1769,6,164,36",
+                                          "text": "5/4/2021"
+                                    },
+                                    {
+                                          "boundingBox": "1956,6,167,36",
+                                          "text": "1113237"
+                                    },
+                                    {
+                                          "boundingBox": "2137,6,64,36",
+                                          "text": "AM"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "1029,60,1127,35",
+                              "words": [
+                                    {
+                                          "boundingBox": "1029,62,61,25",
+                                          "text": "Fax"
+                                    },
+                                    {
+                                          "boundingBox": "1116,62,164,25",
+                                          "text": "Diabetes"
+                                    },
+                                    {
+                                          "boundingBox": "1302,62,66,25",
+                                          "text": "Ancl"
+                                    },
+                                    {
+                                          "boundingBox": "1393,62,276,33",
+                                          "text": "Encloccinoiogy"
+                                    },
+                                    {
+                                          "boundingBox": "1689,64,128,23",
+                                          "text": "Center"
+                                    },
+                                    {
+                                          "boundingBox": "1861,62,56,25",
+                                          "text": "i)O:"
+                                    },
+                                    {
+                                          "boundingBox": "1948,60,208,27",
+                                          "text": "8019382101)"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "2225,62,338,25",
+                              "words": [
+                                    {
+                                          "boundingBox": "2225,64,99,23",
+                                          "text": "PAGE:"
+                                    },
+                                    {
+                                          "boundingBox": "2356,62,59,25",
+                                          "text": "002"
+                                    },
+                                    {
+                                          "boundingBox": "2439,64,41,23",
+                                          "text": "OF"
+                                    },
+                                    {
+                                          "boundingBox": "2504,62,59,25",
+                                          "text": "010"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "1266,278,470,178",
+                              "words": [
+                                    {
+                                          "boundingBox": "1266,278,470,178",
+                                          "text": "DECO"
+                                    }
+                              ]
+                        }
+                  ]
+            },
+            {
+                  "boundingBox": "307,737,1579,318",
+                  "lines": [
+                        {
+                              "boundingBox": "307,737,730,62",
+                              "words": [
+                                    {
+                                          "boundingBox": "307,741,165,57",
+                                          "text": "Paliavy"
+                                    },
+                                    {
+                                          "boundingBox": "484,739,142,60",
+                                          "text": "(Polly)"
+                                    },
+                                    {
+                                          "boundingBox": "642,739,153,59",
+                                          "text": "Reddyg"
+                                    },
+                                    {
+                                          "boundingBox": "810,739,84,56",
+                                          "text": "MD,"
+                                    },
+                                    {
+                                          "boundingBox": "910,737,127,52",
+                                          "text": "FACE"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "307,805,701,62",
+                              "words": [
+                                    {
+                                          "boundingBox": "307,805,187,51",
+                                          "text": "Jennifer"
+                                    },
+                                    {
+                                          "boundingBox": "506,805,260,62",
+                                          "text": "Rittenborm"
+                                    },
+                                    {
+                                          "boundingBox": "785,805,80,57",
+                                          "text": "MD,"
+                                    },
+                                    {
+                                          "boundingBox": "882,805,126,49",
+                                          "text": "FACE"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "1112,1003,774,52",
+                              "words": [
+                                    {
+                                          "boundingBox": "1112,1005,253,50",
+                                          "text": "FACISMILE"
+                                    },
+                                    {
+                                          "boundingBox": "1378,1003,334,52",
+                                          "text": "TRANSMITTAL"
+                                    },
+                                    {
+                                          "boundingBox": "1728,1003,158,52",
+                                          "text": "SHEET"
+                                    }
+                              ]
+                        }
+                  ]
+            },
+            {
+                  "boundingBox": "2030,737,521,197",
+                  "lines": [
+                        {
+                              "boundingBox": "2030,737,406,54",
+                              "words": [
+                                    {
+                                          "boundingBox": "2030,737,115,49",
+                                          "text": "Catie"
+                                    },
+                                    {
+                                          "boundingBox": "2162,737,146,54",
+                                          "text": "Huber,"
+                                    },
+                                    {
+                                          "boundingBox": "2323,737,113,49",
+                                          "text": "FA\u201eC"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "2032,803,319,60",
+                              "words": [
+                                    {
+                                          "boundingBox": "2032,803,140,53",
+                                          "text": "Devon"
+                                    },
+                                    {
+                                          "boundingBox": "2189,803,162,60",
+                                          "text": "K$iazk,"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "2032,869,519,65",
+                              "words": [
+                                    {
+                                          "boundingBox": "2032,871,182,49",
+                                          "text": "Chelsea"
+                                    },
+                                    {
+                                          "boundingBox": "2227,871,195,63",
+                                          "text": "Hayman,"
+                                    },
+                                    {
+                                          "boundingBox": "2437,869,114,51",
+                                          "text": "PAC"
+                                    }
+                              ]
+                        }
+                  ]
+            },
+            {
+                  "boundingBox": "3081,419,25,773",
+                  "lines": [
+                        {
+                              "boundingBox": "3083,419,23,36",
+                              "words": [
+                                    {
+                                          "boundingBox": "3083,419,23,36",
+                                          "text": "9"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "3085,480,19,36",
+                              "words": [
+                                    {
+                                          "boundingBox": "3085,480,19,36",
+                                          "text": "1"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "3083,542,23,36",
+                              "words": [
+                                    {
+                                          "boundingBox": "3083,542,23,36",
+                                          "text": "0"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "3082,603,22,36",
+                              "words": [
+                                    {
+                                          "boundingBox": "3082,603,22,36",
+                                          "text": "2"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "3085,665,19,36",
+                              "words": [
+                                    {
+                                          "boundingBox": "3085,665,19,36",
+                                          "text": "1"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "3085,726,19,36",
+                              "words": [
+                                    {
+                                          "boundingBox": "3085,726,19,36",
+                                          "text": "1"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "3081,788,23,36",
+                              "words": [
+                                    {
+                                          "boundingBox": "3081,788,23,36",
+                                          "text": "2"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "3083,850,23,35",
+                              "words": [
+                                    {
+                                          "boundingBox": "3083,850,23,35",
+                                          "text": "4"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "3082,911,22,35",
+                              "words": [
+                                    {
+                                          "boundingBox": "3082,911,22,35",
+                                          "text": "2"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "3081,972,23,36",
+                              "words": [
+                                    {
+                                          "boundingBox": "3081,972,23,36",
+                                          "text": "2"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "3083,1034,23,35",
+                              "words": [
+                                    {
+                                          "boundingBox": "3083,1034,23,35",
+                                          "text": "8"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "3082,1095,22,36",
+                              "words": [
+                                    {
+                                          "boundingBox": "3082,1095,22,36",
+                                          "text": "3"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "3083,1157,23,35",
+                              "words": [
+                                    {
+                                          "boundingBox": "3083,1157,23,35",
+                                          "text": "5"
+                                    }
+                              ]
+                        }
+                  ]
+            },
+            {
+                  "boundingBox": "138,1367,684,497",
+                  "lines": [
+                        {
+                              "boundingBox": "140,1367,113,49",
+                              "words": [
+                                    {
+                                          "boundingBox": "140,1367,113,49",
+                                          "text": "Date:"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "138,1499,606,61",
+                              "words": [
+                                    {
+                                          "boundingBox": "138,1499,181,50",
+                                          "text": "Number"
+                                    },
+                                    {
+                                          "boundingBox": "330,1499,46,50",
+                                          "text": "of"
+                                    },
+                                    {
+                                          "boundingBox": "386,1512,137,48",
+                                          "text": "pages"
+                                    },
+                                    {
+                                          "boundingBox": "538,1499,206,61",
+                                          "text": "including"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "596,1711,226,153",
+                              "words": [
+                                    {
+                                          "boundingBox": "596,1711,226,153",
+                                          "text": "bull"
+                                    }
+                              ]
+                        }
+                  ]
+            },
+            {
+                  "boundingBox": "1518,1303,850,122",
+                  "lines": [
+                        {
+                              "boundingBox": "2207,1303,161,122",
+                              "words": [
+                                    {
+                                          "boundingBox": "2207,1303,161,122",
+                                          "text": "LIDO"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "1518,1365,285,48",
+                              "words": [
+                                    {
+                                          "boundingBox": "1518,1365,78,46",
+                                          "text": "Fax"
+                                    },
+                                    {
+                                          "boundingBox": "1614,1365,189,48",
+                                          "text": "Number"
+                                    }
+                              ]
+                        }
+                  ]
+            },
+            {
+                  "boundingBox": "2455,1691,431,182",
+                  "lines": [
+                        {
+                              "boundingBox": "2455,1691,431,182",
+                              "words": [
+                                    {
+                                          "boundingBox": "2455,1691,431,182",
+                                          "text": "punssd"
+                                    }
+                              ]
+                        }
+                  ]
+            },
+            {
+                  "boundingBox": "146,2048,2712,1935",
+                  "lines": [
+                        {
+                              "boundingBox": "678,2048,223,124",
+                              "words": [
+                                    {
+                                          "boundingBox": "678,2048,223,124",
+                                          "text": "vltll()"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "471,2596,583,142",
+                              "words": [
+                                    {
+                                          "boundingBox": "471,2596,583,142",
+                                          "text": "527/14/2?"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "645,2770,275,202",
+                              "words": [
+                                    {
+                                          "boundingBox": "645,2770,275,202",
+                                          "text": "UbdVE"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "146,3076,2202,44",
+                              "words": [
+                                    {
+                                          "boundingBox": "146,3080,60,34",
+                                          "text": "this"
+                                    },
+                                    {
+                                          "boundingBox": "345,3078,176,35",
+                                          "text": "transmtssfdfi"
+                                    },
+                                    {
+                                          "boundingBox": "598,3078,99,35",
+                                          "text": "cont\u00fcln"
+                                    },
+                                    {
+                                          "boundingBox": "709,3078,158,35",
+                                          "text": "tonttdentiet"
+                                    },
+                                    {
+                                          "boundingBox": "875,3080,97,40",
+                                          "text": "peti$ttt"
+                                    },
+                                    {
+                                          "boundingBox": "1286,3080,28,32",
+                                          "text": "to"
+                                    },
+                                    {
+                                          "boundingBox": "1322,3076,43,36",
+                                          "text": "the"
+                                    },
+                                    {
+                                          "boundingBox": "1375,3076,104,38",
+                                          "text": "sender*"
+                                    },
+                                    {
+                                          "boundingBox": "1487,3076,80,36",
+                                          "text": "which"
+                                    },
+                                    {
+                                          "boundingBox": "1606,3076,90,41",
+                                          "text": "*egdty"
+                                    },
+                                    {
+                                          "boundingBox": "2084,3076,25,36",
+                                          "text": "is"
+                                    },
+                                    {
+                                          "boundingBox": "2247,3076,59,41",
+                                          "text": "Qfity"
+                                    },
+                                    {
+                                          "boundingBox": "2314,3076,34,36",
+                                          "text": "f?Jf"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "354,3120,2200,44",
+                              "words": [
+                                    {
+                                          "boundingBox": "354,3122,19,33",
+                                          "text": "If"
+                                    },
+                                    {
+                                          "boundingBox": "377,3132,52,32",
+                                          "text": "you"
+                                    },
+                                    {
+                                          "boundingBox": "547,3123,45,34",
+                                          "text": "thB"
+                                    },
+                                    {
+                                          "boundingBox": "598,3121,121,36",
+                                          "text": "inkvndf:v.f"
+                                    },
+                                    {
+                                          "boundingBox": "862,3129,54,33",
+                                          "text": "you"
+                                    },
+                                    {
+                                          "boundingBox": "1219,3122,33,40",
+                                          "text": "by"
+                                    },
+                                    {
+                                          "boundingBox": "1713,3120,139,42",
+                                          "text": "di$dkJRltiSJ"
+                                    },
+                                    {
+                                          "boundingBox": "2110,3120,48,33",
+                                          "text": "ihli"
+                                    },
+                                    {
+                                          "boundingBox": "2345,3120,117,35",
+                                          "text": "{ddfron,"
+                                    },
+                                    {
+                                          "boundingBox": "2472,3120,82,33",
+                                          "text": "und9t\u2022"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "146,3161,2712,46",
+                              "words": [
+                                    {
+                                          "boundingBox": "146,3167,51,35",
+                                          "text": "o{vi]"
+                                    },
+                                    {
+                                          "boundingBox": "209,3167,50,35",
+                                          "text": "and"
+                                    },
+                                    {
+                                          "boundingBox": "564,3167,46,33",
+                                          "text": "'Eh*"
+                                    },
+                                    {
+                                          "boundingBox": "1123,3165,28,33",
+                                          "text": "of"
+                                    },
+                                    {
+                                          "boundingBox": "1156,3163,158,35",
+                                          "text": "confidential"
+                                    },
+                                    {
+                                          "boundingBox": "1599,3163,19,35",
+                                          "text": "It"
+                                    },
+                                    {
+                                          "boundingBox": "1626,3172,50,35",
+                                          "text": "yoo"
+                                    },
+                                    {
+                                          "boundingBox": "1684,3165,120,33",
+                                          "text": "reeetve(}"
+                                    },
+                                    {
+                                          "boundingBox": "1814,3163,52,35",
+                                          "text": "this"
+                                    },
+                                    {
+                                          "boundingBox": "2001,3165,26,33",
+                                          "text": "in"
+                                    },
+                                    {
+                                          "boundingBox": "2260,3163,147,43",
+                                          "text": "appt\u00e9nfdte"
+                                    },
+                                    {
+                                          "boundingBox": "2680,3163,33,43",
+                                          "text": "by"
+                                    },
+                                    {
+                                          "boundingBox": "2720,3161,138,41",
+                                          "text": "teEeph\u00f6K1\u00e4"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "298,3210,732,36",
+                              "words": [
+                                    {
+                                          "boundingBox": "298,3212,38,34",
+                                          "text": "for"
+                                    },
+                                    {
+                                          "boundingBox": "649,3210,30,35",
+                                          "text": "of"
+                                    },
+                                    {
+                                          "boundingBox": "1004,3212,26,30",
+                                          "text": "10"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "909,3358,1202,66",
+                              "words": [
+                                    {
+                                          "boundingBox": "909,3360,222,50",
+                                          "text": "Diabetes"
+                                    },
+                                    {
+                                          "boundingBox": "1150,3360,39,50",
+                                          "text": "&"
+                                    },
+                                    {
+                                          "boundingBox": "1208,3358,381,66",
+                                          "text": "Endocrinology"
+                                    },
+                                    {
+                                          "boundingBox": "1605,3359,176,51",
+                                          "text": "Center"
+                                    },
+                                    {
+                                          "boundingBox": "1795,3358,55,52",
+                                          "text": "of"
+                                    },
+                                    {
+                                          "boundingBox": "1864,3358,136,61",
+                                          "text": "Ohio,"
+                                    },
+                                    {
+                                          "boundingBox": "2019,3358,92,52",
+                                          "text": "INC"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "1262,3418,492,70",
+                              "words": [
+                                    {
+                                          "boundingBox": "1262,3418,115,68",
+                                          "text": "728h"
+                                    },
+                                    {
+                                          "boundingBox": "1400,3432,202,56",
+                                          "text": "Sawmill"
+                                    },
+                                    {
+                                          "boundingBox": "1621,3432,133,54",
+                                          "text": "Road"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "1264,3507,492,64",
+                              "words": [
+                                    {
+                                          "boundingBox": "1264,3511,182,60",
+                                          "text": "Dublin,"
+                                    },
+                                    {
+                                          "boundingBox": "1465,3507,124,55",
+                                          "text": "Ohio"
+                                    },
+                                    {
+                                          "boundingBox": "1603,3507,113,55",
+                                          "text": "4304"
+                                    },
+                                    {
+                                          "boundingBox": "1728,3511,28,51",
+                                          "text": "6"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "1241,3585,185,55",
+                              "words": [
+                                    {
+                                          "boundingBox": "1241,3585,185,55",
+                                          "text": "Phone:"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "1281,3662,106,56",
+                              "words": [
+                                    {
+                                          "boundingBox": "1281,3662,106,56",
+                                          "text": "Fax:"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "578,3939,1920,44",
+                              "words": [
+                                    {
+                                          "boundingBox": "578,3939,83,36",
+                                          "text": "This"
+                                    },
+                                    {
+                                          "boundingBox": "674,3939,57,36",
+                                          "text": "fax"
+                                    },
+                                    {
+                                          "boundingBox": "743,3946,81,29",
+                                          "text": "was"
+                                    },
+                                    {
+                                          "boundingBox": "841,3939,162,36",
+                                          "text": "received"
+                                    },
+                                    {
+                                          "boundingBox": "1022,3939,42,44",
+                                          "text": "by"
+                                    },
+                                    {
+                                          "boundingBox": "1078,3939,68,36",
+                                          "text": "GPI"
+                                    },
+                                    {
+                                          "boundingBox": "1163,3939,195,36",
+                                          "text": "FaxMeker"
+                                    },
+                                    {
+                                          "boundingBox": "1369,3939,57,36",
+                                          "text": "fax"
+                                    },
+                                    {
+                                          "boundingBox": "1440,3947,126,28",
+                                          "text": "server,"
+                                    },
+                                    {
+                                          "boundingBox": "1586,3939,63,36",
+                                          "text": "For"
+                                    },
+                                    {
+                                          "boundingBox": "1664,3946,101,29",
+                                          "text": "rnore"
+                                    },
+                                    {
+                                          "boundingBox": "1780,3939,229,43",
+                                          "text": "information,"
+                                    },
+                                    {
+                                          "boundingBox": "2026,3939,85,36",
+                                          "text": "visit:"
+                                    },
+                                    {
+                                          "boundingBox": "2131,3939,367,43",
+                                          "text": "http://vvww.gfi.com"
+                                    }
+                              ]
+                        }
+                  ]
+            }
+      ],
+      "modelVersion": "2021-04-01"
+}

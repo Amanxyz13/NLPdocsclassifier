@@ -1,0 +1,1423 @@
+{
+      "language": "en",
+      "textAngle": 0.0,
+      "orientation": "Up",
+      "regions": [
+            {
+                  "boundingBox": "63,27,167,36",
+                  "lines": [
+                        {
+                              "boundingBox": "63,27,167,36",
+                              "words": [
+                                    {
+                                          "boundingBox": "63,27,116,36",
+                                          "text": "(Page"
+                                    },
+                                    {
+                                          "boundingBox": "213,27,17,27",
+                                          "text": "4"
+                                    }
+                              ]
+                        }
+                  ]
+            },
+            {
+                  "boundingBox": "290,27,48,28",
+                  "lines": [
+                        {
+                              "boundingBox": "290,27,48,28",
+                              "words": [
+                                    {
+                                          "boundingBox": "290,27,48,28",
+                                          "text": "of"
+                                    }
+                              ]
+                        }
+                  ]
+            },
+            {
+                  "boundingBox": "398,26,2250,1446",
+                  "lines": [
+                        {
+                              "boundingBox": "398,26,62,34",
+                              "words": [
+                                    {
+                                          "boundingBox": "398,26,62,34",
+                                          "text": "13)"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "1080,446,777,110",
+                              "words": [
+                                    {
+                                          "boundingBox": "1080,446,777,110",
+                                          "text": "ADVANCED"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "1081,582,756,42",
+                              "words": [
+                                    {
+                                          "boundingBox": "1081,584,41,40",
+                                          "text": "R"
+                                    },
+                                    {
+                                          "boundingBox": "1141,582,38,42",
+                                          "text": "E"
+                                    },
+                                    {
+                                          "boundingBox": "1201,582,636,42",
+                                          "text": "IMBURSEMENT"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "1816,808,832,248",
+                              "words": [
+                                    {
+                                          "boundingBox": "1816,808,832,248",
+                                          "text": "Cover"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "1808,1224,824,248",
+                              "words": [
+                                    {
+                                          "boundingBox": "1808,1224,824,248",
+                                          "text": "Letter"
+                                    }
+                              ]
+                        }
+                  ]
+            },
+            {
+                  "boundingBox": "864,8,376,36",
+                  "lines": [
+                        {
+                              "boundingBox": "864,8,376,36",
+                              "words": [
+                                    {
+                                          "boundingBox": "864,8,112,36",
+                                          "text": "From:"
+                                    },
+                                    {
+                                          "boundingBox": "994,8,246,36",
+                                          "text": "6028068977"
+                                    }
+                              ]
+                        }
+                  ]
+            },
+            {
+                  "boundingBox": "1346,8,202,45",
+                  "lines": [
+                        {
+                              "boundingBox": "1346,8,202,45",
+                              "words": [
+                                    {
+                                          "boundingBox": "1346,8,109,45",
+                                          "text": "Page:"
+                                    },
+                                    {
+                                          "boundingBox": "1474,8,74,36",
+                                          "text": "2/11"
+                                    }
+                              ]
+                        }
+                  ]
+            },
+            {
+                  "boundingBox": "1657,8,559,36",
+                  "lines": [
+                        {
+                              "boundingBox": "1657,8,559,36",
+                              "words": [
+                                    {
+                                          "boundingBox": "1657,8,101,36",
+                                          "text": "Date,"
+                                    },
+                                    {
+                                          "boundingBox": "1776,8,192,35",
+                                          "text": "3/24/2021"
+                                    },
+                                    {
+                                          "boundingBox": "2151,8,65,35",
+                                          "text": "PM"
+                                    }
+                              ]
+                        }
+                  ]
+            },
+            {
+                  "boundingBox": "194,799,2664,3184",
+                  "lines": [
+                        {
+                              "boundingBox": "194,799,1248,46",
+                              "words": [
+                                    {
+                                          "boundingBox": "194,799,336,46",
+                                          "text": "ADVANCED"
+                                    },
+                                    {
+                                          "boundingBox": "549,799,533,46",
+                                          "text": "REIMBURSEMENT"
+                                    },
+                                    {
+                                          "boundingBox": "1101,799,341,46",
+                                          "text": "SOLUTIONS"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "194,867,756,51",
+                              "words": [
+                                    {
+                                          "boundingBox": "194,869,105,42",
+                                          "text": "2801"
+                                    },
+                                    {
+                                          "boundingBox": "323,867,254,44",
+                                          "text": "Centerville"
+                                    },
+                                    {
+                                          "boundingBox": "593,868,93,50",
+                                          "text": "Rd.,"
+                                    },
+                                    {
+                                          "boundingBox": "703,868,106,43",
+                                          "text": "First"
+                                    },
+                                    {
+                                          "boundingBox": "823,868,127,43",
+                                          "text": "Floor"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "194,933,230,41",
+                              "words": [
+                                    {
+                                          "boundingBox": "194,933,108,41",
+                                          "text": "PMB"
+                                    },
+                                    {
+                                          "boundingBox": "318,933,106,41",
+                                          "text": "#550"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "194,998,682,56",
+                              "words": [
+                                    {
+                                          "boundingBox": "194,998,291,56",
+                                          "text": "Wilmington,"
+                                    },
+                                    {
+                                          "boundingBox": "502,998,218,43",
+                                          "text": "Delaware"
+                                    },
+                                    {
+                                          "boundingBox": "743,998,133,45",
+                                          "text": "19808"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "196,1066,494,47",
+                              "words": [
+                                    {
+                                          "boundingBox": "196,1066,153,45",
+                                          "text": "Phone:"
+                                    },
+                                    {
+                                          "boundingBox": "370,1066,320,47",
+                                          "text": "302-3165305"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "196,1209,531,59",
+                              "words": [
+                                    {
+                                          "boundingBox": "196,1209,280,59",
+                                          "text": "Member"
+                                    },
+                                    {
+                                          "boundingBox": "497,1211,51,57",
+                                          "text": "A"
+                                    },
+                                    {
+                                          "boundingBox": "637,1209,90,57",
+                                          "text": "eal"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "194,1349,300,44",
+                              "words": [
+                                    {
+                                          "boundingBox": "194,1349,123,37",
+                                          "text": "March"
+                                    },
+                                    {
+                                          "boundingBox": "332,1349,57,44",
+                                          "text": "24,"
+                                    },
+                                    {
+                                          "boundingBox": "401,1349,93,37",
+                                          "text": "2021"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "194,1678,749,39",
+                              "words": [
+                                    {
+                                          "boundingBox": "194,1678,190,39",
+                                          "text": "Attention:"
+                                    },
+                                    {
+                                          "boundingBox": "399,1680,209,37",
+                                          "text": "APPEALS"
+                                    },
+                                    {
+                                          "boundingBox": "620,1680,323,37",
+                                          "text": "DEPARTMENT"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "194,1734,968,41",
+                              "words": [
+                                    {
+                                          "boundingBox": "194,1734,166,39",
+                                          "text": "Address:"
+                                    },
+                                    {
+                                          "boundingBox": "377,1736,59,37",
+                                          "text": "PO"
+                                    },
+                                    {
+                                          "boundingBox": "451,1736,78,37",
+                                          "text": "Box"
+                                    },
+                                    {
+                                          "boundingBox": "542,1736,142,37",
+                                          "text": "740800"
+                                    },
+                                    {
+                                          "boundingBox": "698,1736,138,37",
+                                          "text": "Atlanta"
+                                    },
+                                    {
+                                          "boundingBox": "848,1736,72,37",
+                                          "text": "GA"
+                                    },
+                                    {
+                                          "boundingBox": "933,1736,229,39",
+                                          "text": "30374-0800"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "196,1792,884,39",
+                              "words": [
+                                    {
+                                          "boundingBox": "196,1792,124,37",
+                                          "text": "From:"
+                                    },
+                                    {
+                                          "boundingBox": "336,1792,203,37",
+                                          "text": "Advanced"
+                                    },
+                                    {
+                                          "boundingBox": "555,1792,323,39",
+                                          "text": "Reimbursement"
+                                    },
+                                    {
+                                          "boundingBox": "893,1792,187,39",
+                                          "text": "Solutions"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "196,1850,226,46",
+                              "words": [
+                                    {
+                                          "boundingBox": "196,1850,226,46",
+                                          "text": "Regarding:"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "194,1904,716,49",
+                              "words": [
+                                    {
+                                          "boundingBox": "194,1904,221,49",
+                                          "text": "Beneficiary"
+                                    },
+                                    {
+                                          "boundingBox": "426,1906,128,36",
+                                          "text": "Name:"
+                                    },
+                                    {
+                                          "boundingBox": "569,1906,95,47",
+                                          "text": "Shay"
+                                    },
+                                    {
+                                          "boundingBox": "678,1906,39,36",
+                                          "text": "M"
+                                    },
+                                    {
+                                          "boundingBox": "732,1906,178,47",
+                                          "text": "Sheppard"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "198,1962,541,40",
+                              "words": [
+                                    {
+                                          "boundingBox": "198,1962,84,38",
+                                          "text": "Date"
+                                    },
+                                    {
+                                          "boundingBox": "296,1962,44,38",
+                                          "text": "of"
+                                    },
+                                    {
+                                          "boundingBox": "350,1962,153,38",
+                                          "text": "Service:"
+                                    },
+                                    {
+                                          "boundingBox": "518,1962,221,40",
+                                          "text": "2020-05-02"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "196,2020,526,40",
+                              "words": [
+                                    {
+                                          "boundingBox": "196,2020,204,38",
+                                          "text": "Subscriber"
+                                    },
+                                    {
+                                          "boundingBox": "410,2022,88,36",
+                                          "text": "ID#:"
+                                    },
+                                    {
+                                          "boundingBox": "513,2022,209,38",
+                                          "text": "871386343"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "194,2078,315,46",
+                              "words": [
+                                    {
+                                          "boundingBox": "194,2078,121,46",
+                                          "text": "Group"
+                                    },
+                                    {
+                                          "boundingBox": "327,2078,182,38",
+                                          "text": "/k.715014"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "194,2134,115,38",
+                              "words": [
+                                    {
+                                          "boundingBox": "194,2134,115,38",
+                                          "text": "Claim"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "194,2192,829,50",
+                              "words": [
+                                    {
+                                          "boundingBox": "194,2192,233,50",
+                                          "text": "Opportunity"
+                                    },
+                                    {
+                                          "boundingBox": "437,2194,128,36",
+                                          "text": "Name:"
+                                    },
+                                    {
+                                          "boundingBox": "580,2192,443,38",
+                                          "text": "TT1-SHES05022010M"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "194,2248,606,39",
+                              "words": [
+                                    {
+                                          "boundingBox": "194,2248,175,38",
+                                          "text": "Provider."
+                                    },
+                                    {
+                                          "boundingBox": "383,2248,91,38",
+                                          "text": "THS"
+                                    },
+                                    {
+                                          "boundingBox": "488,2248,93,38",
+                                          "text": "Tech"
+                                    },
+                                    {
+                                          "boundingBox": "595,2248,102,39",
+                                          "text": "IOM."
+                                    },
+                                    {
+                                          "boundingBox": "710,2248,90,38",
+                                          "text": "LLC"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "194,2364,371,38",
+                              "words": [
+                                    {
+                                          "boundingBox": "194,2366,77,34",
+                                          "text": "TIN"
+                                    },
+                                    {
+                                          "boundingBox": "336,2364,229,38",
+                                          "text": "83-2118184"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "194,2420,376,40",
+                              "words": [
+                                    {
+                                          "boundingBox": "194,2420,74,38",
+                                          "text": "NPI"
+                                    },
+                                    {
+                                          "boundingBox": "337,2420,233,40",
+                                          "text": "1467927004"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "194,2534,2664,49",
+                              "words": [
+                                    {
+                                          "boundingBox": "194,2536,202,37",
+                                          "text": "Advanced"
+                                    },
+                                    {
+                                          "boundingBox": "412,2536,326,37",
+                                          "text": "Reimbursement"
+                                    },
+                                    {
+                                          "boundingBox": "748,2535,204,42",
+                                          "text": "Solutions,"
+                                    },
+                                    {
+                                          "boundingBox": "962,2534,99,40",
+                                          "text": "LLC"
+                                    },
+                                    {
+                                          "boundingBox": "1074,2535,177,48",
+                                          "text": "(\"ARS\")"
+                                    },
+                                    {
+                                          "boundingBox": "1261,2534,31,40",
+                                          "text": "is"
+                                    },
+                                    {
+                                          "boundingBox": "1302,2535,180,48",
+                                          "text": "formally"
+                                    },
+                                    {
+                                          "boundingBox": "1492,2536,215,47",
+                                          "text": "requesting"
+                                    },
+                                    {
+                                          "boundingBox": "1719,2536,76,37",
+                                          "text": "this"
+                                    },
+                                    {
+                                          "boundingBox": "1809,2536,110,37",
+                                          "text": "claim"
+                                    },
+                                    {
+                                          "boundingBox": "1930,2540,41,33",
+                                          "text": "to"
+                                    },
+                                    {
+                                          "boundingBox": "1979,2534,52,39",
+                                          "text": "be"
+                                    },
+                                    {
+                                          "boundingBox": "2043,2536,144,47",
+                                          "text": "opened"
+                                    },
+                                    {
+                                          "boundingBox": "2200,2536,64,37",
+                                          "text": "for"
+                                    },
+                                    {
+                                          "boundingBox": "2274,2535,258,48",
+                                          "text": "negotiations."
+                                    },
+                                    {
+                                          "boundingBox": "2546,2536,129,37",
+                                          "text": "Please"
+                                    },
+                                    {
+                                          "boundingBox": "2687,2536,61,37",
+                                          "text": "fax"
+                                    },
+                                    {
+                                          "boundingBox": "2761,2545,97,38",
+                                          "text": "your"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "194,2599,552,50",
+                              "words": [
+                                    {
+                                          "boundingBox": "194,2601,179,48",
+                                          "text": "proposal"
+                                    },
+                                    {
+                                          "boundingBox": "383,2605,40,35",
+                                          "text": "to"
+                                    },
+                                    {
+                                          "boundingBox": "434,2599,105,50",
+                                          "text": "(310)"
+                                    },
+                                    {
+                                          "boundingBox": "551,2599,195,41",
+                                          "text": "4945929."
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "194,2696,327,44",
+                              "words": [
+                                    {
+                                          "boundingBox": "194,2696,105,37",
+                                          "text": "Good"
+                                    },
+                                    {
+                                          "boundingBox": "312,2696,209,44",
+                                          "text": "Afternoon,"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "194,2789,2606,50",
+                              "words": [
+                                    {
+                                          "boundingBox": "194,2791,173,37",
+                                          "text": "Attached"
+                                    },
+                                    {
+                                          "boundingBox": "379,2791,30,37",
+                                          "text": "is"
+                                    },
+                                    {
+                                          "boundingBox": "422,2804,47,24",
+                                          "text": "an"
+                                    },
+                                    {
+                                          "boundingBox": "481,2791,122,48",
+                                          "text": "appeal"
+                                    },
+                                    {
+                                          "boundingBox": "618,2798,139,41",
+                                          "text": "request"
+                                    },
+                                    {
+                                          "boundingBox": "766,2792,68,36",
+                                          "text": "due"
+                                    },
+                                    {
+                                          "boundingBox": "848,2799,37,29",
+                                          "text": "to"
+                                    },
+                                    {
+                                          "boundingBox": "899,2802,21,26",
+                                          "text": "a"
+                                    },
+                                    {
+                                          "boundingBox": "935,2791,66,37",
+                                          "text": "low"
+                                    },
+                                    {
+                                          "boundingBox": "1014,2791,287,37",
+                                          "text": "reimbursement"
+                                    },
+                                    {
+                                          "boundingBox": "1313,2799,83,29",
+                                          "text": "rate."
+                                    },
+                                    {
+                                          "boundingBox": "1409,2791,75,37",
+                                          "text": "The"
+                                    },
+                                    {
+                                          "boundingBox": "1496,2791,83,37",
+                                          "text": "total"
+                                    },
+                                    {
+                                          "boundingBox": "1592,2791,108,37",
+                                          "text": "billed"
+                                    },
+                                    {
+                                          "boundingBox": "1713,2792,148,47",
+                                          "text": "charges"
+                                    },
+                                    {
+                                          "boundingBox": "1874,2802,94,26",
+                                          "text": "were"
+                                    },
+                                    {
+                                          "boundingBox": "1977,2791,23,41",
+                                          "text": "$"
+                                    },
+                                    {
+                                          "boundingBox": "2008,2791,209,44",
+                                          "text": "142,400.00"
+                                    },
+                                    {
+                                          "boundingBox": "2231,2792,61,36",
+                                          "text": "but"
+                                    },
+                                    {
+                                          "boundingBox": "2303,2802,56,26",
+                                          "text": "we"
+                                    },
+                                    {
+                                          "boundingBox": "2372,2802,92,26",
+                                          "text": "were"
+                                    },
+                                    {
+                                          "boundingBox": "2475,2791,83,48",
+                                          "text": "paid"
+                                    },
+                                    {
+                                          "boundingBox": "2569,2791,110,41",
+                                          "text": "$0.00"
+                                    },
+                                    {
+                                          "boundingBox": "2691,2789,44,39",
+                                          "text": "of"
+                                    },
+                                    {
+                                          "boundingBox": "2743,2791,57,37",
+                                          "text": "the"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "194,2856,2659,49",
+                              "words": [
+                                    {
+                                          "boundingBox": "194,2856,116,38",
+                                          "text": "claim."
+                                    },
+                                    {
+                                          "boundingBox": "325,2856,169,38",
+                                          "text": "Included"
+                                    },
+                                    {
+                                          "boundingBox": "508,2856,33,38",
+                                          "text": "in"
+                                    },
+                                    {
+                                          "boundingBox": "553,2856,68,38",
+                                          "text": "this"
+                                    },
+                                    {
+                                          "boundingBox": "634,2856,124,49",
+                                          "text": "packet"
+                                    },
+                                    {
+                                          "boundingBox": "772,2856,30,38",
+                                          "text": "is"
+                                    },
+                                    {
+                                          "boundingBox": "815,2856,58,38",
+                                          "text": "the"
+                                    },
+                                    {
+                                          "boundingBox": "888,2856,122,38",
+                                          "text": "Power"
+                                    },
+                                    {
+                                          "boundingBox": "1022,2856,44,38",
+                                          "text": "of"
+                                    },
+                                    {
+                                          "boundingBox": "1072,2856,183,49",
+                                          "text": "Attorney/"
+                                    },
+                                    {
+                                          "boundingBox": "1266,2856,269,38",
+                                          "text": "Authorization"
+                                    },
+                                    {
+                                          "boundingBox": "1547,2856,44,38",
+                                          "text": "of"
+                                    },
+                                    {
+                                          "boundingBox": "1597,2856,287,49",
+                                          "text": "Representation"
+                                    },
+                                    {
+                                          "boundingBox": "1900,2856,124,49",
+                                          "text": "stating"
+                                    },
+                                    {
+                                          "boundingBox": "2037,2867,55,27",
+                                          "text": "we"
+                                    },
+                                    {
+                                          "boundingBox": "2106,2867,55,27",
+                                          "text": "are"
+                                    },
+                                    {
+                                          "boundingBox": "2175,2856,60,38",
+                                          "text": "the"
+                                    },
+                                    {
+                                          "boundingBox": "2247,2856,200,38",
+                                          "text": "authorized"
+                                    },
+                                    {
+                                          "boundingBox": "2459,2856,269,49",
+                                          "text": "representative"
+                                    },
+                                    {
+                                          "boundingBox": "2741,2865,38,29",
+                                          "text": "to"
+                                    },
+                                    {
+                                          "boundingBox": "2792,2856,61,38",
+                                          "text": "file"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "194,2924,633,48",
+                              "words": [
+                                    {
+                                          "boundingBox": "194,2924,143,48",
+                                          "text": "appeals"
+                                    },
+                                    {
+                                          "boundingBox": "350,2937,45,26",
+                                          "text": "on"
+                                    },
+                                    {
+                                          "boundingBox": "408,2924,126,39",
+                                          "text": "behalf"
+                                    },
+                                    {
+                                          "boundingBox": "540,2924,46,39",
+                                          "text": "of"
+                                    },
+                                    {
+                                          "boundingBox": "595,2924,57,37",
+                                          "text": "the"
+                                    },
+                                    {
+                                          "boundingBox": "665,2924,162,39",
+                                          "text": "member."
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "194,3018,2465,50",
+                              "words": [
+                                    {
+                                          "boundingBox": "194,3018,121,40",
+                                          "text": "Please"
+                                    },
+                                    {
+                                          "boundingBox": "328,3031,144,35",
+                                          "text": "process"
+                                    },
+                                    {
+                                          "boundingBox": "486,3018,234,48",
+                                          "text": "accordingly,"
+                                    },
+                                    {
+                                          "boundingBox": "736,3018,33,40",
+                                          "text": "if"
+                                    },
+                                    {
+                                          "boundingBox": "775,3031,70,35",
+                                          "text": "you"
+                                    },
+                                    {
+                                          "boundingBox": "859,3019,91,39",
+                                          "text": "have"
+                                    },
+                                    {
+                                          "boundingBox": "962,3031,68,35",
+                                          "text": "any"
+                                    },
+                                    {
+                                          "boundingBox": "1043,3018,192,48",
+                                          "text": "questions,"
+                                    },
+                                    {
+                                          "boundingBox": "1248,3018,120,48",
+                                          "text": "please"
+                                    },
+                                    {
+                                          "boundingBox": "1382,3018,66,40",
+                                          "text": "feel"
+                                    },
+                                    {
+                                          "boundingBox": "1465,3018,74,38",
+                                          "text": "free"
+                                    },
+                                    {
+                                          "boundingBox": "1550,3026,36,30",
+                                          "text": "to"
+                                    },
+                                    {
+                                          "boundingBox": "1599,3026,135,32",
+                                          "text": "contact"
+                                    },
+                                    {
+                                          "boundingBox": "1748,3031,68,27",
+                                          "text": "our"
+                                    },
+                                    {
+                                          "boundingBox": "1827,3018,110,40",
+                                          "text": "office"
+                                    },
+                                    {
+                                          "boundingBox": "1948,3026,34,30",
+                                          "text": "at"
+                                    },
+                                    {
+                                          "boundingBox": "1995,3018,58,38",
+                                          "text": "the"
+                                    },
+                                    {
+                                          "boundingBox": "2064,3018,117,50",
+                                          "text": "phone"
+                                    },
+                                    {
+                                          "boundingBox": "2195,3031,42,25",
+                                          "text": "or"
+                                    },
+                                    {
+                                          "boundingBox": "2249,3018,59,40",
+                                          "text": "fax"
+                                    },
+                                    {
+                                          "boundingBox": "2321,3018,146,40",
+                                          "text": "number"
+                                    },
+                                    {
+                                          "boundingBox": "2479,3018,180,48",
+                                          "text": "provided,"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "194,3114,213,47",
+                              "words": [
+                                    {
+                                          "boundingBox": "194,3114,123,38",
+                                          "text": "Thank"
+                                    },
+                                    {
+                                          "boundingBox": "328,3125,79,36",
+                                          "text": "you."
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "245,3534,2412,45",
+                              "words": [
+                                    {
+                                          "boundingBox": "245,3536,253,34",
+                                          "text": "IMPORTANT"
+                                    },
+                                    {
+                                          "boundingBox": "508,3536,158,34",
+                                          "text": "NOTICE"
+                                    },
+                                    {
+                                          "boundingBox": "708,3534,76,35",
+                                          "text": "This"
+                                    },
+                                    {
+                                          "boundingBox": "797,3545,146,33",
+                                          "text": "message"
+                                    },
+                                    {
+                                          "boundingBox": "956,3536,25,32",
+                                          "text": "is"
+                                    },
+                                    {
+                                          "boundingBox": "994,3534,145,36",
+                                          "text": "intended"
+                                    },
+                                    {
+                                          "boundingBox": "1152,3534,101,44",
+                                          "text": "solely"
+                                    },
+                                    {
+                                          "boundingBox": "1266,3534,50,36",
+                                          "text": "for"
+                                    },
+                                    {
+                                          "boundingBox": "1328,3534,53,35",
+                                          "text": "the"
+                                    },
+                                    {
+                                          "boundingBox": "1393,3545,53,23",
+                                          "text": "use"
+                                    },
+                                    {
+                                          "boundingBox": "1460,3534,41,35",
+                                          "text": "of"
+                                    },
+                                    {
+                                          "boundingBox": "1505,3534,52,34",
+                                          "text": "the"
+                                    },
+                                    {
+                                          "boundingBox": "1568,3534,222,43",
+                                          "text": "individual(s)"
+                                    },
+                                    {
+                                          "boundingBox": "1802,3545,35,23",
+                                          "text": "or"
+                                    },
+                                    {
+                                          "boundingBox": "1845,3534,99,45",
+                                          "text": "entity"
+                                    },
+                                    {
+                                          "boundingBox": "1958,3541,29,27",
+                                          "text": "to"
+                                    },
+                                    {
+                                          "boundingBox": "1999,3534,104,36",
+                                          "text": "which"
+                                    },
+                                    {
+                                          "boundingBox": "2117,3534,21,36",
+                                          "text": "it"
+                                    },
+                                    {
+                                          "boundingBox": "2151,3534,27,34",
+                                          "text": "is"
+                                    },
+                                    {
+                                          "boundingBox": "2189,3534,171,35",
+                                          "text": "addressed"
+                                    },
+                                    {
+                                          "boundingBox": "2372,3534,61,35",
+                                          "text": "and"
+                                    },
+                                    {
+                                          "boundingBox": "2444,3545,74,32",
+                                          "text": "may"
+                                    },
+                                    {
+                                          "boundingBox": "2530,3534,127,35",
+                                          "text": "contain"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "245,3584,2525,45",
+                              "words": [
+                                    {
+                                          "boundingBox": "245,3584,204,34",
+                                          "text": "information"
+                                    },
+                                    {
+                                          "boundingBox": "461,3586,64,32",
+                                          "text": "that"
+                                    },
+                                    {
+                                          "boundingBox": "535,3586,28,32",
+                                          "text": "is"
+                                    },
+                                    {
+                                          "boundingBox": "574,3586,262,40",
+                                          "text": "PRIVILEGED,"
+                                    },
+                                    {
+                                          "boundingBox": "848,3586,327,38",
+                                          "text": "CONFIDENTIAL,"
+                                    },
+                                    {
+                                          "boundingBox": "1188,3586,92,32",
+                                          "text": "AND"
+                                    },
+                                    {
+                                          "boundingBox": "1291,3586,173,32",
+                                          "text": "EXEMPT"
+                                    },
+                                    {
+                                          "boundingBox": "1476,3586,119,32",
+                                          "text": "FROM"
+                                    },
+                                    {
+                                          "boundingBox": "1608,3586,264,33",
+                                          "text": "DISCLOSURE"
+                                    },
+                                    {
+                                          "boundingBox": "1887,3586,146,32",
+                                          "text": "UNDER"
+                                    },
+                                    {
+                                          "boundingBox": "2042,3586,264,33",
+                                          "text": "APPLICABLE"
+                                    },
+                                    {
+                                          "boundingBox": "2316,3586,106,33",
+                                          "text": "LAW."
+                                    },
+                                    {
+                                          "boundingBox": "2475,3597,66,32",
+                                          "text": "you"
+                                    },
+                                    {
+                                          "boundingBox": "2551,3586,148,32",
+                                          "text": "received"
+                                    },
+                                    {
+                                          "boundingBox": "2709,3586,61,32",
+                                          "text": "this"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "245,3637,2552,45",
+                              "words": [
+                                    {
+                                          "boundingBox": "245,3648,144,33",
+                                          "text": "message"
+                                    },
+                                    {
+                                          "boundingBox": "402,3637,31,35",
+                                          "text": "in"
+                                    },
+                                    {
+                                          "boundingBox": "448,3647,92,33",
+                                          "text": "error,"
+                                    },
+                                    {
+                                          "boundingBox": "553,3647,62,34",
+                                          "text": "you"
+                                    },
+                                    {
+                                          "boundingBox": "627,3648,52,24",
+                                          "text": "are"
+                                    },
+                                    {
+                                          "boundingBox": "690,3637,117,45",
+                                          "text": "hereby"
+                                    },
+                                    {
+                                          "boundingBox": "819,3637,135,35",
+                                          "text": "notified"
+                                    },
+                                    {
+                                          "boundingBox": "964,3648,50,24",
+                                          "text": "we"
+                                    },
+                                    {
+                                          "boundingBox": "1025,3637,43,33",
+                                          "text": "do"
+                                    },
+                                    {
+                                          "boundingBox": "1080,3645,53,27",
+                                          "text": "not"
+                                    },
+                                    {
+                                          "boundingBox": "1145,3643,129,29",
+                                          "text": "consent"
+                                    },
+                                    {
+                                          "boundingBox": "1286,3643,35,28",
+                                          "text": "to"
+                                    },
+                                    {
+                                          "boundingBox": "1333,3648,63,34",
+                                          "text": "any"
+                                    },
+                                    {
+                                          "boundingBox": "1405,3637,137,44",
+                                          "text": "readingh"
+                                    },
+                                    {
+                                          "boundingBox": "1556,3637,249,41",
+                                          "text": "dissemination,"
+                                    },
+                                    {
+                                          "boundingBox": "1818,3637,197,35",
+                                          "text": "distribution"
+                                    },
+                                    {
+                                          "boundingBox": "2026,3648,38,24",
+                                          "text": "or"
+                                    },
+                                    {
+                                          "boundingBox": "2073,3637,139,45",
+                                          "text": "copying"
+                                    },
+                                    {
+                                          "boundingBox": "2224,3637,40,35",
+                                          "text": "of"
+                                    },
+                                    {
+                                          "boundingBox": "2269,3637,64,35",
+                                          "text": "this"
+                                    },
+                                    {
+                                          "boundingBox": "2343,3648,155,33",
+                                          "text": "message."
+                                    },
+                                    {
+                                          "boundingBox": "2513,3637,106,35",
+                                          "text": "Please"
+                                    },
+                                    {
+                                          "boundingBox": "2631,3637,102,45",
+                                          "text": "notify"
+                                    },
+                                    {
+                                          "boundingBox": "2745,3637,52,34",
+                                          "text": "the"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "245,3689,1040,44",
+                              "words": [
+                                    {
+                                          "boundingBox": "245,3689,113,34",
+                                          "text": "sender"
+                                    },
+                                    {
+                                          "boundingBox": "368,3689,61,34",
+                                          "text": "and"
+                                    },
+                                    {
+                                          "boundingBox": "444,3689,213,44",
+                                          "text": "immediately"
+                                    },
+                                    {
+                                          "boundingBox": "669,3689,126,44",
+                                          "text": "destroy"
+                                    },
+                                    {
+                                          "boundingBox": "806,3689,50,34",
+                                          "text": "the"
+                                    },
+                                    {
+                                          "boundingBox": "868,3689,196,34",
+                                          "text": "transmitted"
+                                    },
+                                    {
+                                          "boundingBox": "1076,3689,209,34",
+                                          "text": "information."
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "578,3937,1920,46",
+                              "words": [
+                                    {
+                                          "boundingBox": "578,3937,83,36",
+                                          "text": "This"
+                                    },
+                                    {
+                                          "boundingBox": "674,3937,57,36",
+                                          "text": "fax"
+                                    },
+                                    {
+                                          "boundingBox": "743,3946,81,27",
+                                          "text": "was"
+                                    },
+                                    {
+                                          "boundingBox": "839,3937,164,36",
+                                          "text": "received"
+                                    },
+                                    {
+                                          "boundingBox": "1020,3937,44,46",
+                                          "text": "by"
+                                    },
+                                    {
+                                          "boundingBox": "1078,3937,68,36",
+                                          "text": "GFI"
+                                    },
+                                    {
+                                          "boundingBox": "1163,3937,195,36",
+                                          "text": "FaxMaker"
+                                    },
+                                    {
+                                          "boundingBox": "1369,3937,57,36",
+                                          "text": "fax"
+                                    },
+                                    {
+                                          "boundingBox": "1440,3947,126,26",
+                                          "text": "server."
+                                    },
+                                    {
+                                          "boundingBox": "1585,3937,64,36",
+                                          "text": "For"
+                                    },
+                                    {
+                                          "boundingBox": "1662,3947,103,26",
+                                          "text": "more"
+                                    },
+                                    {
+                                          "boundingBox": "1780,3937,229,44",
+                                          "text": "information,"
+                                    },
+                                    {
+                                          "boundingBox": "2026,3937,85,36",
+                                          "text": "visit:"
+                                    },
+                                    {
+                                          "boundingBox": "2129,3937,369,45",
+                                          "text": "http://www.gfi.com"
+                                    }
+                              ]
+                        }
+                  ]
+            },
+            {
+                  "boundingBox": "3081,419,25,773",
+                  "lines": [
+                        {
+                              "boundingBox": "3083,419,23,36",
+                              "words": [
+                                    {
+                                          "boundingBox": "3083,419,23,36",
+                                          "text": "9"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "3085,480,19,36",
+                              "words": [
+                                    {
+                                          "boundingBox": "3085,480,19,36",
+                                          "text": "1"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "3083,542,23,36",
+                              "words": [
+                                    {
+                                          "boundingBox": "3083,542,23,36",
+                                          "text": "0"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "3082,603,22,36",
+                              "words": [
+                                    {
+                                          "boundingBox": "3082,603,22,36",
+                                          "text": "2"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "3085,665,19,36",
+                              "words": [
+                                    {
+                                          "boundingBox": "3085,665,19,36",
+                                          "text": "1"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "3083,788,23,36",
+                              "words": [
+                                    {
+                                          "boundingBox": "3083,788,23,36",
+                                          "text": "8"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "3081,850,23,35",
+                              "words": [
+                                    {
+                                          "boundingBox": "3081,850,23,35",
+                                          "text": "3"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "3085,911,19,35",
+                              "words": [
+                                    {
+                                          "boundingBox": "3085,911,19,35",
+                                          "text": "1"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "3083,973,23,35",
+                              "words": [
+                                    {
+                                          "boundingBox": "3083,973,23,35",
+                                          "text": "8"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "3083,1034,23,35",
+                              "words": [
+                                    {
+                                          "boundingBox": "3083,1034,23,35",
+                                          "text": "4"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "3083,1095,23,36",
+                              "words": [
+                                    {
+                                          "boundingBox": "3083,1095,23,36",
+                                          "text": "6"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "3083,1157,23,35",
+                              "words": [
+                                    {
+                                          "boundingBox": "3083,1157,23,35",
+                                          "text": "5"
+                                    }
+                              ]
+                        }
+                  ]
+            }
+      ],
+      "modelVersion": "2021-04-01"
+}

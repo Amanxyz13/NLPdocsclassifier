@@ -1,0 +1,369 @@
+{
+      "language": "en",
+      "textAngle": 0.0,
+      "orientation": "Up",
+      "regions": [
+            {
+                  "boundingBox": "289,26,48,28",
+                  "lines": [
+                        {
+                              "boundingBox": "289,26,48,28",
+                              "words": [
+                                    {
+                                          "boundingBox": "289,26,48,28",
+                                          "text": "of"
+                                    }
+                              ]
+                        }
+                  ]
+            },
+            {
+                  "boundingBox": "396,26,2062,1483",
+                  "lines": [
+                        {
+                              "boundingBox": "396,26,62,33",
+                              "words": [
+                                    {
+                                          "boundingBox": "396,26,62,33",
+                                          "text": "13)"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "973,421,1104,97",
+                              "words": [
+                                    {
+                                          "boundingBox": "973,421,732,78",
+                                          "text": "UnitedHealth"
+                                    },
+                                    {
+                                          "boundingBox": "1728,421,349,97",
+                                          "text": "Group"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "954,1251,1080,49",
+                              "words": [
+                                    {
+                                          "boundingBox": "954,1251,138,49",
+                                          "text": "THIS"
+                                    },
+                                    {
+                                          "boundingBox": "1115,1251,353,49",
+                                          "text": "DOCUMENT"
+                                    },
+                                    {
+                                          "boundingBox": "1483,1251,140,49",
+                                          "text": "WAS"
+                                    },
+                                    {
+                                          "boundingBox": "1646,1251,311,49",
+                                          "text": "RECEIVED"
+                                    },
+                                    {
+                                          "boundingBox": "1980,1252,54,46",
+                                          "text": "IN"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "534,1452,1924,57",
+                              "words": [
+                                    {
+                                          "boundingBox": "534,1454,240,46",
+                                          "text": "APPEAL"
+                                    },
+                                    {
+                                          "boundingBox": "795,1452,84,50",
+                                          "text": "PO"
+                                    },
+                                    {
+                                          "boundingBox": "901,1452,128,50",
+                                          "text": "BOX"
+                                    },
+                                    {
+                                          "boundingBox": "1047,1454,169,48",
+                                          "text": "30573"
+                                    },
+                                    {
+                                          "boundingBox": "1236,1465,54,37",
+                                          "text": "or"
+                                    },
+                                    {
+                                          "boundingBox": "1309,1454,118,46",
+                                          "text": "FAX"
+                                    },
+                                    {
+                                          "boundingBox": "1445,1454,395,55",
+                                          "text": "801-938-2109,"
+                                    },
+                                    {
+                                          "boundingBox": "2020,1452,242,50",
+                                          "text": "UT-RMO"
+                                    },
+                                    {
+                                          "boundingBox": "2281,1452,177,50",
+                                          "text": "WEST"
+                                    }
+                              ]
+                        }
+                  ]
+            },
+            {
+                  "boundingBox": "3053,428,25,792",
+                  "lines": [
+                        {
+                              "boundingBox": "3055,428,23,37",
+                              "words": [
+                                    {
+                                          "boundingBox": "3055,428,23,37",
+                                          "text": "9"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "3057,491,20,36",
+                              "words": [
+                                    {
+                                          "boundingBox": "3057,491,20,36",
+                                          "text": "1"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "3053,617,24,37",
+                              "words": [
+                                    {
+                                          "boundingBox": "3053,617,24,37",
+                                          "text": "2"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "3057,680,20,37",
+                              "words": [
+                                    {
+                                          "boundingBox": "3057,680,20,37",
+                                          "text": "1"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "3055,806,23,36",
+                              "words": [
+                                    {
+                                          "boundingBox": "3055,806,23,36",
+                                          "text": "8"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "3053,869,24,36",
+                              "words": [
+                                    {
+                                          "boundingBox": "3053,869,24,36",
+                                          "text": "3"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "3057,932,20,36",
+                              "words": [
+                                    {
+                                          "boundingBox": "3057,932,20,36",
+                                          "text": "1"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "3055,995,23,36",
+                              "words": [
+                                    {
+                                          "boundingBox": "3055,995,23,36",
+                                          "text": "8"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "3055,1058,23,36",
+                              "words": [
+                                    {
+                                          "boundingBox": "3055,1058,23,36",
+                                          "text": "4"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "3055,1121,23,36",
+                              "words": [
+                                    {
+                                          "boundingBox": "3055,1121,23,36",
+                                          "text": "6"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "3055,1184,23,36",
+                              "words": [
+                                    {
+                                          "boundingBox": "3055,1184,23,36",
+                                          "text": "5"
+                                    }
+                              ]
+                        }
+                  ]
+            },
+            {
+                  "boundingBox": "1239,2384,327,946",
+                  "lines": [
+                        {
+                              "boundingBox": "1450,2384,116,45",
+                              "words": [
+                                    {
+                                          "boundingBox": "1450,2384,116,45",
+                                          "text": "FAX"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "1239,3280,297,50",
+                              "words": [
+                                    {
+                                          "boundingBox": "1239,3280,297,50",
+                                          "text": "03/24/2021"
+                                    }
+                              ]
+                        }
+                  ]
+            },
+            {
+                  "boundingBox": "1793,3280,123,48",
+                  "lines": [
+                        {
+                              "boundingBox": "1793,3280,123,48",
+                              "words": [
+                                    {
+                                          "boundingBox": "1793,3280,123,48",
+                                          "text": "1501"
+                                    }
+                              ]
+                        }
+                  ]
+            },
+            {
+                  "boundingBox": "812,3488,1709,316",
+                  "lines": [
+                        {
+                              "boundingBox": "812,3488,1709,68",
+                              "words": [
+                                    {
+                                          "boundingBox": "812,3488,204,53",
+                                          "text": "United"
+                                    },
+                                    {
+                                          "boundingBox": "1037,3490,205,51",
+                                          "text": "Health"
+                                    },
+                                    {
+                                          "boundingBox": "1262,3488,200,68",
+                                          "text": "Group"
+                                    },
+                                    {
+                                          "boundingBox": "1483,3517,24,9",
+                                          "text": "-"
+                                    },
+                                    {
+                                          "boundingBox": "1545,3490,173,62",
+                                          "text": "West,"
+                                    },
+                                    {
+                                          "boundingBox": "1739,3488,231,53",
+                                          "text": "Central"
+                                    },
+                                    {
+                                          "boundingBox": "1991,3490,112,51",
+                                          "text": "and"
+                                    },
+                                    {
+                                          "boundingBox": "2124,3488,203,53",
+                                          "text": "Cirrus"
+                                    },
+                                    {
+                                          "boundingBox": "2346,3490,175,51",
+                                          "text": "RMO"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "1054,3571,980,68",
+                              "words": [
+                                    {
+                                          "boundingBox": "1054,3571,262,68",
+                                          "text": "Operated"
+                                    },
+                                    {
+                                          "boundingBox": "1334,3571,73,68",
+                                          "text": "by"
+                                    },
+                                    {
+                                          "boundingBox": "1424,3571,320,53",
+                                          "text": "Firstsource"
+                                    },
+                                    {
+                                          "boundingBox": "1765,3571,269,53",
+                                          "text": "Solutions"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "1215,3654,669,54",
+                              "words": [
+                                    {
+                                          "boundingBox": "1215,3655,133,53",
+                                          "text": "1355"
+                                    },
+                                    {
+                                          "boundingBox": "1391,3654,164,54",
+                                          "text": "South"
+                                    },
+                                    {
+                                          "boundingBox": "1572,3655,142,53",
+                                          "text": "4700"
+                                    },
+                                    {
+                                          "boundingBox": "1735,3656,149,52",
+                                          "text": "West"
+                                    }
+                              ]
+                        },
+                        {
+                              "boundingBox": "1174,3736,742,68",
+                              "words": [
+                                    {
+                                          "boundingBox": "1174,3736,111,53",
+                                          "text": "Salt"
+                                    },
+                                    {
+                                          "boundingBox": "1302,3736,140,53",
+                                          "text": "Lake"
+                                    },
+                                    {
+                                          "boundingBox": "1463,3736,138,68",
+                                          "text": "City,"
+                                    },
+                                    {
+                                          "boundingBox": "1622,3737,96,52",
+                                          "text": "UT"
+                                    },
+                                    {
+                                          "boundingBox": "1739,3736,177,53",
+                                          "text": "84104"
+                                    }
+                              ]
+                        }
+                  ]
+            }
+      ],
+      "modelVersion": "2021-04-01"
+}
